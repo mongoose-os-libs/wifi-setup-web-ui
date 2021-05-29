@@ -5,7 +5,7 @@ version: 1.0
 filesystem:
   - fs
 libs:
-  - origin: https://github.com/mongoose-os-libs/rpc-ws
+  - location: https://github.com/mongoose-os-libs/rpc-ws
 tags:
   - docs:misc:WebUI
 manifest_version: 2017-09-29
